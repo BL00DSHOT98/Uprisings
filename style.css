@@ -18,7 +18,7 @@ body{
 
   background:
     linear-gradient(rgba(6, 8, 14, 0.85), rgba(6, 8, 14, 0.85)),
-    url("images/bg.png");
+    url("./images/bg.png");
 
   background-size: cover;
   background-repeat: no-repeat;
@@ -412,4 +412,5 @@ h1{
   .specs-grid{
     grid-template-columns: 1fr;
   }
+
 }
