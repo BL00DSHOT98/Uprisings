@@ -17,8 +17,8 @@ body{
   color: #eaf0ff;
 
   background:
-    linear-gradient(rgba(6, 8, 14, 0.85), rgba(6, 8, 14, 0.85)),
-    url("./BL00DSH0T98/images/bg.png");
+  linear-gradient(rgba(6, 8, 14, 0.85), rgba(6, 8, 14, 0.85)),
+  url("./images/bg.png");
 
   background-size: cover;
   background-repeat: no-repeat;
@@ -414,6 +414,7 @@ h1{
   }
 
 }
+
 
 
 
